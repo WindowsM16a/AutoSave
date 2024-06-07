@@ -26,7 +26,7 @@ AutoSave simulates the key combination for saving documents (default: Ctrl + S) 
 
 ### Compatibility
 
-AutoSave seamlessly integrates into your workflow across various platforms, offering peace of mind regardless of your preferred operating system or creative software suite.
+It should work across all platforms as long as you compile the source code on THAT platform.
 
 ### Contribution
 
