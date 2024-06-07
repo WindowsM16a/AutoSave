@@ -18,7 +18,7 @@ AutoSave gracefully automates the mundane yet crucial task of saving your docume
 
 2. **Configuration**: Modify the source code to adjust the interval between saves or customize the key combination for saving documents if needed.
 
-3. **Execution**: Compile and run the AutoSave c++ code, allowing it to run discreetly in the background while you focus on your creative endeavors. You can even run it on even that specific softwares are launched, however you do that at your own risk.
+3. **Execution**: Compile and run the AutoSave c++ code, allowing it to run in the background while you focus on your creative endeavors. You can even run it on even that specific softwares are launched, however you do that at your own risk.
 
 ### How It Works
 
